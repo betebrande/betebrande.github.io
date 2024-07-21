@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://betebrande.github.io/sitemap
+Sitemap: https://betebrande.github.io/app/sitemap
+Sitemap: https://betebrande.github.io/assets/sitemap
+Sitemap: https://betebrande.github.io/css/sitemap
+Sitemap: https://betebrande.github.io/includes/sitemap
+Sitemap: https://betebrande.github.io/item/sitemap
+Sitemap: https://betebrande.github.io/src/sitemap
